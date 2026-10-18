@@ -1,0 +1,18 @@
+# Build and IDE output
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+*.pdb
+*.exe
+*.zip
+
+# Local runtime data and diagnostics
+Backups/
+settings.json
+proxy-settings-backup.json
+*-report.txt
+*-tests.txt
+*.log
+*.tmp
